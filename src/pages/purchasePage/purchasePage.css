@@ -1,0 +1,30 @@
+.purchase-container{
+    background-color: rgb(81, 98, 98);
+}
+.purchase-table {
+    align-items: center;
+    padding: 1rem;
+}
+
+.purchase-table table {
+background-color: rgb(174, 191, 234);
+width: 100%;
+border-radius: 1rem;
+padding: 1rem;
+}
+
+.purchase-table th {
+    border: 1px solid black;
+    padding: .8rem;
+    text-align: center;
+    border-radius: 1rem;
+
+}
+
+.purchase-table tr {
+    border-bottom: 1px solid black;
+}
+
+.purchase-table td {
+    padding: .8rem;
+}

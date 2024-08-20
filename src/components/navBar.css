@@ -1,0 +1,11 @@
+.nav-container {
+    margin: 1rem;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.nav-routes span {
+    padding: 1rem;
+    cursor: pointer;
+}

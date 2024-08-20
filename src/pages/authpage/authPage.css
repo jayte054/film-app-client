@@ -1,0 +1,29 @@
+.authPage-container{
+    margin: 1rem;
+    padding: 1rem;
+    background-color: rgb(174, 191, 234);
+}
+
+.authPage-body{
+    display: flex;
+    justify-content: space-around;
+    margin: 1rem;
+    background-color:rgb(174, 191, 234);
+}
+
+.authPage-body input {
+     margin: 1rem 0 1rem 3rem;
+    padding: 1rem 0 ;
+    width: 10rem;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color:rgb(174, 191, 234);
+    align-items: center;
+}
+.signUp, .signIn{
+    margin: 1rem;
+    border: 1px solid black;
+    align-items: center;
+    padding: 1rem
+}

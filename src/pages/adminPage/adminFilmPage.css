@@ -1,0 +1,41 @@
+.film-body{
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: rgb(174, 191, 234);
+}
+
+.create, .view, .update {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem;
+    padding: 1rem;
+    font-weight: bold;
+    border: 1px Solid black;
+    color: white;
+    background-color: black;
+    border-radius: 1rem;
+}
+
+.form-body {
+    background-color: rgb(232, 221, 221);
+    text-align: left;
+    margin: 2rem;
+    padding: 1rem;
+    font-weight: bold;
+    width: 40%
+}
+
+.form-body  input {
+    margin: 1rem 0 1rem 3rem;
+    padding: 1rem 0 ;
+    width: 10rem;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: rgb(232, 221, 221);
+    align-items: center;
+
+}
+

@@ -1,0 +1,15 @@
+.film1-container, .reports1-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    padding: 1rem;
+    align-items: center;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+
+
+.genre-form input {
+    margin: 1rem;
+    padding: 1rem;
+}

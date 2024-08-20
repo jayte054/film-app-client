@@ -1,0 +1,54 @@
+.home-container{
+    background-color: rgb(81, 98, 98);
+}
+
+.home-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.home-header span {
+    margin: 2rem;
+    padding: 2rem;
+    font-weight: bold;
+}
+.film-table {
+    align-items: center;
+    padding: 1rem;
+}
+
+.film-table table {
+background-color: rgb(174, 191, 234);
+width: 100%;
+border-radius: 1rem;
+padding: 1rem;
+}
+
+.film-table th {
+    border: 1px solid black;
+    padding: .8rem;
+    text-align: center;
+    border-radius: 1rem;
+
+}
+
+.film-table tr {
+    border-bottom: 1px solid black;
+}
+
+.film-table td {
+    padding: .8rem;
+}
+
+button {
+    background-color: #2b2f2b;
+    color: rgb(168, 124, 124);
+    padding: 1rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.6rem;
+    border-radius: 2rem;
+    border: none;
+    cursor: pointer;
+}
